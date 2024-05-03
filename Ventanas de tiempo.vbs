@@ -9,4 +9,4 @@ objexcel.width = 0
 objexcel.height = 0
 ObjExcel.Workbooks.Open Directory,0,true
 Set ObjExcel = Nothing
-Set ObjLibro = Nothing
+Set ObjLibro = Nothing ' Mi segunda prueba
